@@ -1,0 +1,6 @@
+{
+  "name": "亞馬遜高山接駁",
+  "description": "亞馬遜高山接駁｜全國登山口專業包車與接駁服務。熟悉全台高山與林道路況，安全舒適、準時抵達，線上 10 秒即時算價！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
